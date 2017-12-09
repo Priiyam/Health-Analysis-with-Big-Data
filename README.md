@@ -20,3 +20,6 @@ At last I have generated the data and stored or loaded the results back to local
 
 I used Pig tool because Apache Pig is a dataflow language that is built on top of Hadoop to make it easier to process, clean and analyze "big data" without having to write vanilla map-reduce jobs in Hadoop.
 
+## REFERENCES
+www.infoworld.com/category/big-data
+
